@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM ubuntu:xenial-20210114
 ENV SUMMARY="galne-runtime"
 ENV DESCRIPTION="Application runtime for Galenframework"
 ENV AUTHOR="Martin Reinhardt <contact@martinreinhardt-online.de"
